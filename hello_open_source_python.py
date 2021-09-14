@@ -1,1 +1,1 @@
-print("Hello Open Source")
+print("hello open source")
